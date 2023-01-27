@@ -81,8 +81,8 @@ if ($check21 = 1) {
     $from = 'hoornhek@gmail.com';
     
     
-    $mail->Username="577590aa2ad61f";
-    $mail->Password = "a40fce0cc3e9ec"; 
+    $mail->Username=
+    $mail->Password = 
     $mail->Host="smtp.mailtrap.io";
     $mail->SMTPSecure = 'tls';   
     $mail->From = $from;
